@@ -5,7 +5,7 @@
 
 Your final project is to design and present a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
 
-📋🐈‍⬛ Oh, here's the  [Rubric](https://kyle1james.github.io/unityProject/rubric) 📋🐈‍⬛
+📋🐈‍⬛ Oh, here are the  [Rubrics](https://kyle1james.github.io/unityProject/rubric) 📋🐈‍⬛
 
 
 ## Project Support and Timeline 🗓️💡
