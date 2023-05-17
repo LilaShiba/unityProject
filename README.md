@@ -71,8 +71,4 @@ We will host a final presentation event where you will showcase your games. Cele
 
 Need extra help? Here are a few sites for guidance and inspiration:
 
-- [Unity Learn](https://learn.unity.com/)
-- [Gamasutra](https://www.gamasutra.com/)
-- [GameDev.net](https://www.gamedev.net/)
-
-I'm here to support you in your game design journey. Reach out for any assistance. Let's create, innovate, and have fun with game design. Good luck! 🚀🎮💡
+We are here to support you in your game design journey. Reach out for any assistance. Let's create, innovate, and have fun with game design. Good luck! 🚀🎮💡
