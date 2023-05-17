@@ -1,14 +1,14 @@
-# Game Design & Development (2022-23) 🎮🚀
 
-Welcome to the world of game design! This course will introduce you to the intersection of computer science and game creation. Let's bring your game ideas to life!
-
-## Final Project: Terrain Game (Due: 04/06, 9PM) ⏰
+# 🎮🚀 Final Project: Terrain Game (Due: 04/06, 9PM) ⏰
 
 Your final project is to design a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
 
+📋🐈‍⬛ Oh, here's the  [Rubric](https://kyle1james.github.io/unityProject/rubric) 📋🐈‍⬛
+
+
 ## Project Support and Timeline 🗓️💡
 
-You have plenty of time to work on your project, both in class and for homework. Regularly save your progress. Don't hesitate to reach out via email for any help or to schedule a personalized meeting.
+You have plenty of time to work on your project, both in class and for homework. Regularly save your progress. Don't hesitate to reach out via email for any help or to schedule a personalized meeting. It's better to know about issues sooner than later.
 
 ## Project Requirements Checklist ✅📋
 
