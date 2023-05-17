@@ -1,5 +1,5 @@
 
-# 🎮🚀 Final Project: Terrain Game (Due: 04/06, 9PM) ⏰
+# 🎮🚀 Final Project: Terrain Game (Due: 06/04, 9PM) ⏰
 
 Your final project is to design a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
 
