@@ -17,10 +17,12 @@
 | Sketches                                    | Includes excellent primary sketches of level layouts, characters, menus, and world objects. The sketches provided complement and support the other game design document components. Sketches detail a good plan for building in Unity | Includes sketches of level layouts and characters. While sketches generally support the other game design document components, more detail is needed - see comments on this row. | Some sketches for characters, level layouts, or menus are missing. Sketches do not support or contradict other components described in the Game Design Document. These issues must be addressed prior to building in Unity |
 | Sounds                                      | The use of sound is adequately described and supports overall gameplay.                                                  | Sounds are provided, but it is unclear how they support gameplay - see comments on this row.                      | No sound descriptions are provided.
 
+
 ## Overall Summary
 
-Includes Game Name, Basic Idea, Audience, Target Market, Character, Gameplay, and World Design.
+| Component    | 😀 (Excellent) | 🙂 (Good) | 😐 (Needs Improvement) |
+|--------------|----------------|-----------|------------------------|
+| Sketches     |   🌟            |    ✔️       |         ❌                 |
+| Sounds       |   🌟            |    ✔️       |         ❌                 |
 
-Includes all the topics, but some are incomplete or require more detail.
 
-Does not include all the required topics.
