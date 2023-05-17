@@ -1,7 +1,9 @@
 
-# 🎮🚀 Final Project: Terrain Game (Due: 06/04, 9PM) ⏰
+# 🎮🚀 Final Project: Terrain Game 
 
-Your final project is to design a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
+⏰ (Due: 06/04/2023, 9PM) ⏰
+
+Your final project is to design and present a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
 
 📋🐈‍⬛ Oh, here's the  [Rubric](https://kyle1james.github.io/unityProject/rubric) 📋🐈‍⬛
 
@@ -25,6 +27,29 @@ Ensure your project meets these criteria:
 9. Use PlayerPrefs or persistence to save game elements between scenes.
 10. Include at least two scenes in your game.
 
+# Giving Your Presentation 🎤🎥
+
+Giving a polished and engaging presentation can greatly enhance your Unity game demo experience. Here are some tips to make your presentation memorable:
+
+1. Introduce yourself and your project. Start by introducing yourself and giving a brief overview of your Unity game's theme, concept, and objectives. This will help set the context for your demo. 👋📜
+
+2. Explain the key game mechanics and Unity features used. Briefly explain the key game mechanics and Unity features you've incorporated into your project. Discuss how you utilized physics, animations, audio, UI, or any other relevant features to enhance the gameplay experience. Provide examples and highlight how these elements contribute to the overall immersion and enjoyment of your game. 🧩🏗
+
+3. Walk through the main gameplay and showcase key features. Demonstrate the main gameplay elements and showcase the key features of your Unity game. Run the game live or present pre-recorded demos to illustrate the gameplay flow. Explain how different components, scripts, and assets work together to create a cohesive and engaging experience. Use clear and concise language to guide your audience through the game's mechanics and progression. 🎬🚀
+
+4. Highlight any challenges or interesting solutions. Share any challenges you encountered during the game development process and explain how you overcame them. Discuss any interesting solutions you implemented to address technical, design, or artistic obstacles. This demonstrates your problem-solving skills and showcases your ability to navigate the game development process effectively. 🧠💡
+
+5. Engage your audience. Encourage interaction and engagement from your audience during the presentation. Allow them to ask questions, provide feedback, or even experience your game firsthand if possible. This fosters a more dynamic and interactive presentation experience and helps create a connection between your audience and your game. 💬👥
+
+6. Conclude with a summary and key takeaways. Wrap up your presentation by summarizing the main aspects of your Unity game. Emphasize the unique selling points, innovative features, or any notable achievements of your project. Share the skills and knowledge you've acquired throughout the development process. Express gratitude to your audience for their attention and any feedback they provide. 📝🔑
+
+7. Prepare for potential questions. Anticipate potential questions that your audience may have and prepare concise and informative answers. This demonstrates your deep understanding of your Unity game project, the development process, and the Unity engine itself. ❓🤔
+
+
+
+
+# Requirement Detail
+
 | Requirements                                                                                  | Description                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Design a terrain game with a story                                                            | Create a game with specific goals and obstacles for players.                                                     |
@@ -43,7 +68,7 @@ Ensure your project meets these criteria:
 
 ## Project Submission 📥
 
-Submit the following by 04/06/2023, 9 PM:
+Submit the following by 06/04/2023, 9 PM:
 
 1. Upload a .zip copy of your Unity Game Project folder.
 2. Complete the final reflection.
