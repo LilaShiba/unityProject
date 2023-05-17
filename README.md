@@ -1,82 +1,78 @@
-# Computer Science: Game Design 22-23 🎮🚀
+# Game Design & Development (2022-23) 🎮🚀
 
-Welcome to the exciting world of game design and development! In this course, we'll dive into the realm of computer science and explore how it intersects with the creation of captivating games. Get ready to unleash your creativity and coding skills to bring your game ideas to life!
+Welcome to the world of game design! This course will introduce you to the intersection of computer science and game creation. Let's bring your game ideas to life!
 
-## Culminating Project - Terrain Game - Due Sunday, June 4 9PM ⏰
+## Final Project: Terrain Game (Due: 04/06, 9PM) ⏰
 
-For our culminating project, you have the freedom to continue working on your game terrain projects or embark on a thrilling new game adventure! It's your chance to showcase your programming logic, game mechanics, and creative flair. Let your imagination run wild as you design and build your very own game!
+Your final project is to design a game. You may choose to enhance your game terrain project or create a brand new one. Showcase your skills in programming, game mechanics, and creativity!
 
-## Project Timeline and Support 🗓️💡
+## Project Support and Timeline 🗓️💡
 
-You will have ample time to work on your game, utilizing both class sessions and homework time. Remember to save your progress frequently as you dive into the exciting process of building your game in Unity. If you have any questions or need assistance, feel free to reach out to me via email. You can even schedule a meeting for more personalized support.
+You have plenty of time to work on your project, both in class and for homework. Regularly save your progress. Don't hesitate to reach out via email for any help or to schedule a personalized meeting.
 
-## Checklist of Requirements ✅📋
+## Project Requirements Checklist ✅📋
 
-To make sure your final game project meets the criteria, here's a handy checklist of requirements:
+Ensure your project meets these criteria:
 
-- Apply your knowledge of terrains to design and build a game with an engaging story! 🌟
-- Create a win condition, such as finding the treasure, and add obstacles, diversions, or enemies to challenge the player's journey. 🏆🚧
-- Utilize sounds, lighting, and assets to create a visually stunning and immersive game environment. 🔊💡🌳
-- Implement a first-person controller to allow the player to navigate and explore your terrain with ease. 🎮🚶‍♂️
-- Ensure that collisions are detected when the player comes into contact with objects or game elements. Use OnTriggerEnter() or OnCollisionEnter() to make it happen! 💥
-- If you're working on a terrain game, make sure to prevent the player from falling off the world. Safety first! 🚫🌎
-- Get creative with raycasting and prefabs. Feel free to experiment with one or both to enhance your game mechanics. 🔦🧩
-- Use GUI elements like labels, buttons, and boxes to add visual elements and interactivity to your game. 🖼️🎛️📦
-- Leverage PlayerPrefs or persistence (or both) to save important game elements between scenes and ensure a seamless gaming experience. 💾🔄
-- Aim for at least two scenes in your game. You can start with a home, story, or main menu screen to engage your players right from the start. 🏠📖🔖
+1. Design and build a terrain game with an engaging story.
+2. Include a win condition and add obstacles, diversions, or enemies.
+3. Use sounds, lighting, and assets to create a visually stunning game environment.
+4. Implement a first-person controller for navigation.
+5. Detect collisions when the player contacts objects or game elements.
+6. Prevent the player from falling off the world in terrain games.
+7. Use raycasting and prefabs to enhance game mechanics.
+8. Add GUI elements like labels, buttons, and boxes for interactivity.
+9. Use PlayerPrefs or persistence to save game elements between scenes.
+10. Include at least two scenes in your game.
 
+| Requirements                                                                                  | Description                                                                                                      |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Design a terrain game with a story                                                            | Create a game with specific goals and obstacles for players.                                                     |
+| Create a win condition (e.g., finding a treasure)                                             | Design a condition signifying player victory.                                                                    |
+| Implement obstacles, diversions, or enemies                                                   | Add elements that challenge players and require strategizing.                                                    |
+| Use sounds, lighting, and assets                                                              | Use these to enhance the game experience.                                                                        |
+| Implement a first-person controller                                                           | Allow players to navigate in a first-person perspective.                                                         |
+| Detect collisions with game elements                                                          | Trigger actions or events when the player collides with game elements.                                           |
+| Prevent the player from falling off the terrain (for terrain games)                           | Keep players within bounds.                                                                                      |
+| Add GUI elements                                                                              | Use GUI for displaying information and creating interactive buttons.                                             |
+| Save game elements using PlayerPrefs or persistence between scenes                            | Retain game data between different scenes or sessions.                                                           |
+| Include at least two scenes in your game                                                      | Provide different gameplay scenarios or level progression.                                                       |
+| Document and comment your code                                                                | Explain code functionality and aid future edits.                                                                 |
+| Use proper C# naming conventions                                                              | Maintain consistency and clarity in your code.                                                                   |
+| Playtest the game with someone outside your immediate circle                                  | Gather feedback and identify areas for improvement.                                                              |
 
+## Project Submission 📥
 
-| Objective                                                                                  | Description                                                                                                    |
-| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Apply your knowledge of terrains to design and build a game with a story!                  | Create a game with a storyline where players have specific goals and encounter obstacles along the way.        |
-| Create a win condition (i.e., find the treasure)                                           | Design a condition that signifies the player's victory, such as finding the treasure or completing a task.     |
-| Create obstacles, diversions, or enemies to prevent the player from reaching the objective | Implement elements in the game that challenge the player and require them to strategize and overcome hurdles.  |
-| Use sounds, lighting, and assets to create an aesthetic for your story                      | Utilize audio effects, lighting techniques, and suitable visual assets to enhance the overall game experience. |
-| Implement a first-person controller for player navigation through the terrain              | Develop a controller that allows players to navigate through the game environment in a first-person perspective. |
-| Implement collisions with objects or game elements                                         | Ensure that collisions between the player and objects/elements in the game trigger appropriate actions or events. |
-| Prevent the player from falling off the terrain (for terrain games)                         | Implement mechanisms to prevent the player from falling off the terrain, ensuring they stay within bounds.      |
-| Use GUI elements for labels, buttons, or boxes for your game                               | Incorporate graphical user interface (GUI) elements to display information, create interactive buttons, etc.    |
-| Save game elements using PlayerPrefs or persistence between scenes                          | Utilize PlayerPrefs or persistence mechanisms to save and retain game data between different scenes or sessions. |
-| Implement at least two scenes in your game                                                  | Create multiple game scenes to provide different gameplay scenarios, menu screens, or level progression.       |
-| Document and comment your code fully                                                       | Add comprehensive comments to your code to explain its functionality, increase readability, and aid future edits. |
-| Use proper C# naming conventions                                                           | Follow appropriate naming conventions in your C# code to ensure consistency and clarity throughout the project. |
-| Playtest the game with someone other than a family member, friend, or classmate             | Have someone outside your immediate circle playtest the game to gather feedback and identify areas for improvement. |
-
-## Part 3: Game Project Submission 📥
-
-On Sunday, June 4, 2023, at 9 PM, please submit the following components:
+Submit the following by 04/06/2023, 9 PM:
 
 1. Upload a .zip copy of your Unity Game Project folder.
 2. Complete the final reflection.
 
-Good luck with your game project! 🚀
+Good luck! 🚀
 
-## Learn Something New! 🌟📚
+## Expand Your Skills! 🌟📚
 
-As part of your final project, you have the opportunity to setup a project for the summer. Check out these extensions and ask your teachers for advice on setting up a summer game dev team!
+Consider setting up a summer project. These Unity tutorials might help:
 
-- [Unity Particle Systems](https://learn.unity.com/tutorial/unity-particle-systems) 🌌🌠
-- [Unity Audio](https://learn.unity.com/tutorial/unity-audio) 🔊🎵
-- [2D Games in Unity](https://learn.unity.com/tutorial/2d-games-in-unity) 🎮🎯
-- [Unity Tilemaps](https://learn.unity.com/tutorial/unity-tilemaps) 🧱🌍
-- [Unity Animations](https://learn.unity.com/tutorial/unity-animations) 🎬🎮
-- [VR Development with Oculus and Unity](https://learn.unity.com/tutorial/vr-development-with-oculus-and-unity) 🌟🔥
+- [Unity Particle Systems](https://learn.unity.com/tutorial/unity-particle-systems)
+- [Unity Audio](https://learn.unity.com/tutorial/unity-audio)
+- [2D Games in Unity](https://learn.unity.com/tutorial/2d-games-in-unity)
+- [Unity Tilemaps](https://learn.unity.com/tutorial/unity-tilemaps)
+- [Unity Animations](https://learn.unity.com/tutorial/unity-animations)
+- [VR Development with Oculus and Unity](https://learn.unity.com/tutorial/vr-development-with-oculus-and-unity)
 
-Remember, this is your chance to explore and have fun while learning. Don't hesitate to try out new features and techniques that you find interesting. Feel free to seek inspiration from popular games or add your unique twist to create an unforgettable gaming experience. Let your creativity soar!
+Feel free to experiment and use these resources to enhance your game creation skills!
 
-## Final Presentation and Celebration 🎉🎓
+## Final Presentation 🎉🎓
 
-At the end of the project, we will have a final presentation and celebration where you will showcase your amazing games to your classmates and celebrate your achievements. It's a chance to share your journey, your challenges, and your triumphs. Let's make it a memorable experience for everyone!
+We will host a final presentation event where you will showcase your games. Celebrate your accomplishments with your classmates!
 
-## Additional Resources and Support 📚🤝
+## Additional Resources 📚🤝
 
-If you need further resources or have any questions along the way, don't hesitate to reach out to me. I'm here to support you in your game design adventure. You can also check out the following websites for additional guidance and inspiration:
+Need extra help? Here are a few sites for guidance and inspiration:
 
-- [Unity Learn](https://learn.unity.com/) 🎓🎮
-- [Gamasutra](https://www.gamasutra.com/) 🌐🎮
-- [GameDev.net](https://www.gamedev.net/) 🌐👾
+- [Unity Learn](https://learn.unity.com/)
+- [Gamasutra](https://www.gamasutra.com/)
+- [GameDev.net](https://www.gamedev.net/)
 
-Let's make this game design journey an incredible one! Get ready to create, innovate, and have a blast in the world of game design. Good luck, and happy game-making! 🚀🎮💡
-
-
+I'm here to support you in your game design journey. Reach out for any assistance. Let's create, innovate, and have fun with game design. Good luck! 🚀🎮💡
