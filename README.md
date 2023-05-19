@@ -4,28 +4,11 @@
 
 Craft a game that narrates your life's unique journey! This project is a grand opportunity to demonstrate your talents in programming, game mechanics, and creativity.
 
-👉 Check the [Rubrics here](https://kyle1james.github.io/unityProject/rubric) for grading criteria 🎯📜
+👉 Check the [Rubrics here](#) for grading criteria 🎯📜
 
 ## 📝 Project Requirements ✅ 
 
 Ensure your game includes the following elements:
-
-<details>
-<summary>🔍 Click here for the Checklist 📋</summary>
-
-1. 📖 Personal Story: Design a game that tells your life's story.
-2. 🏆 Win Condition & Challenges: Create a victory condition and include obstacles for an engaging game experience.
-3. 🎆 Immersive Game Environment: Use sound effects, lighting, and assets to enrich the game ambiance.
-4. 👁️ First-Person Controller: Implement a navigation system that allows the player to explore the game from a first-person perspective.
-5. 💥 Collision Detection: The game should respond when the player interacts with in-game objects.
-6. 🌌 Player Boundaries: Ensure the player remains within the game environment.
-7. 🛸 Raycasting and Prefabs: Implement these to enhance gameplay.
-8. 🖥️ Interactive GUI Elements: Use labels, buttons, and boxes to communicate with the player.
-9. 💾 Data Persistence: Use PlayerPrefs or a similar method to save game data between scenes.
-10. 🌃 Multiple Scenes: The game should contain at least two different scenes.
-</details>
-
-## 🧙‍♀️ Project Components Breakdown 🌌
 
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
@@ -48,25 +31,22 @@ Ensure your game includes the following elements:
 
 # Before Coding 📚
 
+📨 **Submit and Discuss**: [Submit your proposal](#) for review and have a discussion to clarify any uncertainties.
+🔄 **Revise and Finalize**: Incorporate the feedback, revise, and get the final approval before starting to code.
+
 <details>
 <summary>🔍 Click here for the Proposal Check List</summary>
 
-1. 🎩 **Choose a Project Type**: Understand the project requirements.
+1. 🎩 **Understand the Problem**: What are the project requirements.
 2. 📝 **Project Proposal**: Write a proposal containing:
    - 👤 **Student Information**: Your name and relevant details.
    - 📛 **Project Title**: Clearly define your project title.
    - 📚 **Story Line**: Discuss how storytelling elements will be used in your game.
    - 🎮 **Game Description**: Provide a brief description of your game and its objectives.
    - 📅 **Timeline**: Draft a feasible timeline for project phases.
-3. 📨 **Submit and Discuss**: Submit your proposal for review and have a discussion to clarify any uncertainties.
-4. 🔄 **Revise and Finalize**: Incorporate the feedback, revise, and get the final approval before starting to code.
 </details>
 
----
-
-# 🎉🔮 Final Presentation 🎓🚀
-
-## Giving Your Presentation 🎤🎥
+# 🎉🔮  Giving Your Presentation 🎓🚀
 
 <details>
 <summary>🔍 Click here for How To Present</summary>
@@ -84,8 +64,9 @@ Ensure your game includes the following elements:
 
 Submit the following by 06/04/2023, 9 PM:
 
-1. Upload a .zip copy of your Unity Game Project folder.
-2. Complete the final reflection.
+1. Upload a .zip copy of your Unity Game Project folder
+2. Upload you material links to [the last game design schoology assignment](#)
+3. Complete the [final reflection](#)
 
 ## 🌠 Expand Your Skills! 📘
 
