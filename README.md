@@ -1,6 +1,6 @@
 # 🪄🔮 Final Project: "The Story of Me" - An Interactive Autobiography 🚀🛸 
 
-> **Due Date:** 📅 06/04/2023, ⏰ 9PM 
+**Due Date:** 📅 06/04/2023, ⏰ 9PM 
 
 Craft a game that narrates your life's unique journey! This project is a grand opportunity to demonstrate your talents in programming, game mechanics, and creativity.
 
@@ -27,9 +27,8 @@ Ensure your game includes the following elements:
 | 🌃 Multiple Scenes | The game should include at least two different scenes. |
 </details>
 
----
 
-# Before Coding 📚
+## Before Coding 📚
 
 📨 **Submit and Discuss**: [Submit your proposal](#) for review and have a discussion to clarify any uncertainties.
 🔄 **Revise and Finalize**: Incorporate the feedback, revise, and get the final approval before starting to code.
@@ -46,7 +45,7 @@ Ensure your game includes the following elements:
    - 📅 **Timeline**: Draft a feasible timeline for project phases.
 </details>
 
-# 🎉🔮  Giving Your Presentation 🎓🚀
+## 🎉🔮  Giving Your Presentation 🎓🚀
 
 <details>
 <summary>🔍 Click here for How To Present</summary>
