@@ -8,8 +8,6 @@ Through your storytelling prowess, you'll captivate players and guide them on an
 
 Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
 
-<br>
-
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
@@ -30,7 +28,6 @@ Your game should include the following elements:
   | 🌃 Multiple Scenes | Include at least two different scenes in the game. |
 
 </details>
-<br>
 
 # Rubrics 🎯📜
 
@@ -77,7 +74,6 @@ This list includes scientists and their contributions represented in a series of
 9. [**Carl Sagan**](https://en.wikipedia.org/wiki/Carl_Sagan) 🌌📚🔭🇺🇸
 
 </details>
-<br>
 
 # Before Coding 📚
 
@@ -96,7 +92,6 @@ This list includes scientists and their contributions represented in a series of
    * 📅 **Timeline**: Draft a feasible timeline for the different phases of your project.
 
 </details>
-<br>
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
 
@@ -112,9 +107,6 @@ This list includes scientists and their contributions represented in a series of
 7. 🎤 **Preparation**: Anticipate potential questions and prepare clear and informative responses.
 
 </details>
-
-<br>
-<br>
 
 # 📥 Project Submission
 
