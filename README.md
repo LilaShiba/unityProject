@@ -8,8 +8,6 @@ Through your storytelling prowess, you'll captivate players and guide them on an
 
 Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
 
-<br>
-
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
@@ -133,25 +131,22 @@ Your game should include the following elements:
 
 </details>
 
-## Note
+#### Note
 
 * **Exemplary**: Exceeds expectations and demonstrates superior understanding or execution.
 * **Proficient**: Meets expectations and demonstrates adequate understanding or execution.
 * **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
 * **Not Yet Proficient**: Does not meet expectations and demonstrates lack of understanding or execution.
 
-<br>
 
 # Research
 
 If your game will be about someone else, it must be from this list. If, however, you wish to research another person, please submit in the proposal.
 
 <details>
-<summary>Expand If your game is about someone else</summary>
-
-## 🌟 List of Inspiring Scientists for Research 🌈🔬
-
-This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Fun fact, Carl Sagn is the reason I got into science.
+<summary>Expand your bubble</summary>
+<br>
+<p>This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings?</p>
 
 <ol>
 <li><a href="https://en.wikipedia.org/wiki/Ada_Lovelace"><strong>Ada Lovelace</strong></a> 💻📜🎩👩‍🔬</li>
@@ -166,11 +161,6 @@ This list includes scientists and their contributions represented in a series of
 </ol>
 
 </details>
-<br>
-
-# Before Coding 📚
-
-<!-- Before coding content... -->
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
 
