@@ -8,40 +8,128 @@ Through your storytelling prowess, you'll captivate players and guide them on an
 
 Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
 
+<br>
+
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
-  | Requirement      | Description |
-  | ---------------- | ----------- |
-  | 📖 Personal Story | The game should depict a day in your life or that of a renowned scientist. |
-  | 🏆 Win Condition & Challenges | Design a winning condition and incorporate challenges related to daily tasks or scientific feats. |
-  | 🎆 Immersive Game Environment | Use sounds, lighting, and assets to build a captivating gaming environment. |
-  | 👁️ First-Person Controller | The game should be navigable from a first-person view. |
-  | 💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. |
-  | 🌌 Player Boundaries | Ensure the player can't leave the game environment. |
-  | 🛸 Raycasting and Prefabs | Use these to enhance gameplay mechanics. |
-  | 🖥️ Interactive GUI Elements | Implement GUI for better player interaction. |
-  | 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
-  | 🌃 Multiple Scenes | Include at least two different scenes in the game. |
+  <table>
+    <thead>
+      <tr>
+        <th>Requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>📖 Personal Story</td>
+        <td>The game should depict a day in your life or that of a renowned scientist.</td>
+      </tr>
+      <tr>
+        <td>🏆 Win Condition & Challenges</td>
+        <td>Design a winning condition and incorporate challenges related to daily tasks or scientific feats.</td>
+      </tr>
+      <tr>
+        <td>🎆 Immersive Game Environment</td>
+        <td>Use sounds, lighting, and assets to build a captivating gaming environment.</td>
+      </tr>
+      <tr>
+        <td>👁️ First-Person Controller</td>
+        <td>The game should be navigable from a first-person view.</td>
+      </tr>
+      <tr>
+        <td>💥 Collision Detection</td>
+        <td>Actions or events should be triggered when the player interacts with in-game objects.</td>
+      </tr>
+      <tr>
+        <td>🌌 Player Boundaries</td>
+        <td>Ensure the player can't leave the game environment.</td>
+      </tr>
+      <tr>
+        <td>🛸 Raycasting and Prefabs</td>
+        <td>Use these to enhance gameplay mechanics.</td>
+      </tr>
+      <tr>
+        <td>🖥️ Interactive GUI Elements</td>
+        <td>Implement GUI for better player interaction.</td>
+      </tr>
+      <tr>
+        <td>💾 Data Persistence</td>
+        <td>Use PlayerPrefs or equivalent to retain game data between different scenes.</td>
+      </tr>
+      <tr>
+        <td>🌃 Multiple Scenes</td>
+        <td>Include at least two different scenes in the game.</td>
+      </tr>
+    </tbody>
+  </table>
 
 </details>
+<br>
 
 # Rubrics 🎯📜
 
 <details>
 <summary> Expand To Understand</summary>
 
-| Criteria       | Exemplary | Proficient | Developing | Not Yet Proficient |
-| -------------- | --------- | ---------- | ---------- | ------------------ |
-| 📖 **Personal Story / Research** | The personal story or scientist's life is deeply explored, with clear links to the game. | The personal story or scientist's life is explored, with links to the game. | The personal story or scientist's life is mentioned, but links to the game are unclear. | The personal story or scientist's life is not effectively incorporated into the game. |
-| 🎮 **Game Mechanics** | The game mechanics are innovative, engaging, and well implemented. | The game mechanics are solid and serve to enhance the game experience. | The game mechanics are functional but do not enhance the game experience. | The game mechanics are confusing or non-functional. |
-| 🌈 **Theme Integration** | The magic and trans rights themes are incorporated creatively and thoughtfully throughout the game. | The magic and trans rights themes are incorporated in the game. | The magic and trans rights themes are present but not effectively integrated into the game. | The magic and trans rights themes are absent or not noticeable in the game. |
-| 👁️ **First-Person Controller** | The first-person controller enhances the gameplay, offering an immersive experience. | The first-person controller functions well and does not detract from gameplay. | The first-person controller functions, but could use improvement. | The first-person controller is dysfunctional or not implemented. |
-| 🛠️ **Use of Unity** | Unity is used to its full potential to create an engaging and visually appealing game. | Unity is used effectively to create a functional and appealing game. | Unity is used, but the game could benefit from more advanced features or polish. | Unity is not used effectively, impacting the quality of the game. |
-| 🗣️ **Presentation** | The project presentation is engaging, clear, and demonstrates a deep understanding of the game development process. | The project presentation is solid and shows understanding of the game development process. | The project presentation shows some understanding of the game development process, but could be more clear or engaging. | The project presentation is unclear or fails to demonstrate understanding of the game development process. |
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Exemplary</th>
+      <th>Proficient</th>
+      <th>Developing</th>
+      <th>Not Yet Proficient</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📖 **Personal Story / Research**</td>
+      <td>The personal story or scientist's life is deeply explored, with clear links to the game.</td>
+      <td>The personal story or scientist's life is explored, with links to the game.</td>
+      <td>The personal story or scientist's life is mentioned, but links to the game are unclear.</td>
+      <td>The personal story or scientist's life is not effectively incorporated into the game.</td>
+    </tr>
+    <tr>
+      <td>🎮 **Game Mechanics**</td>
+      <td>The game mechanics are innovative, engaging, and well implemented.</td>
+      <td>The game mechanics are solid and serve to enhance the game experience.</td>
+      <td>The game mechanics are functional but do not enhance the game experience.</td>
+      <td>The game mechanics are confusing or non-functional.</td>
+    </tr>
+    <tr>
+      <td>🌈 **Theme Integration**</td>
+      <td>The magic and trans rights themes are incorporated creatively and thoughtfully throughout the game.</td>
+      <td>The magic and trans rights themes are incorporated in the game.</td>
+      <td>The magic and trans rights themes are present but not effectively integrated into the game.</td>
+      <td>The magic and trans rights themes are absent or not noticeable in the game.</td>
+    </tr>
+    <tr>
+      <td>👁️ **First-Person Controller**</td>
+      <td>The first-person controller enhances the gameplay, offering an immersive experience.</td>
+      <td>The first-person controller functions well and does not detract from gameplay.</td>
+      <td>The first-person controller functions, but could use improvement.</td>
+      <td>The first-person controller is dysfunctional or not implemented.</td>
+    </tr>
+    <tr>
+      <td>🛠️ **Use of Unity**</td>
+      <td>Unity is used to its full potential to create an engaging and visually appealing game.</td>
+      <td>Unity is used effectively to create a functional and appealing game.</td>
+      <td>Unity is used, but the game could benefit from more advanced features or polish.</td>
+      <td>Unity is not used effectively, impacting the quality of the game.</td>
+    </tr>
+    <tr>
+      <td>🗣️ **Presentation**</td>
+      <td>The project presentation is engaging, clear, and demonstrates a deep understanding of the game development process.</td>
+      <td>The project presentation is solid and shows understanding of the game development process.</td>
+      <td>The project presentation shows some understanding of the game development process, but could be more clear or engaging.</td>
+      <td>The project presentation is unclear or fails to demonstrate understanding of the game development process.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Note
 
@@ -74,24 +162,11 @@ This list includes scientists and their contributions represented in a series of
 9. [**Carl Sagan**](https://en.wikipedia.org/wiki/Carl_Sagan) 🌌📚🔭🇺🇸
 
 </details>
+<br>
 
 # Before Coding 📚
 
-📨 **Submit and Discuss**: [Submit your proposal](#) for review and clarify any doubts.
-🔄 **Revise and Finalize**: After feedback incorporation, finalize your proposal before beginning to code.
-
-<details>
-<summary>🔍 Click here for the Proposal Check List</summary>
-
-1. 🎩 **Understand the Problem**: What are the project requirements?
-2. 📝 **Project Proposal**: Write a proposal containing:
-   * 👤 **Student Information**: Your name and relevant details.
-   * 📛 **Project Title**: Clearly define your project title.
-   * 📚 **Story Line**: Discuss how storytelling elements will be used in your game.
-   * 🎮 **Game Description**: Provide a brief description of your game and its objectives.
-   * 📅 **Timeline**: Draft a feasible timeline for the different phases of your project.
-
-</details>
+<!-- Before coding content... -->
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
 
@@ -107,6 +182,9 @@ This list includes scientists and their contributions represented in a series of
 7. 🎤 **Preparation**: Anticipate potential questions and prepare clear and informative responses.
 
 </details>
+
+<br>
+<br>
 
 # 📥 Project Submission
 
