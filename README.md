@@ -164,8 +164,10 @@ If your game will be about someone else, it must be from this list. If, however,
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
 
+Each requirment will be looked at with the rubric above
+
 <details>
-<summary>🔍 Click here for How To Present</summary>
+<summary>🔍Presentation Requirements</summary>
 
 <ol>
 <li>👋 <strong>Introduction</strong>: Begin by introducing yourself and your game.</li>
@@ -191,16 +193,3 @@ Submit the following by 06/04/2023, 9 PM:
 <li>Upload your material links to <a href="#">the last game design schoology assignment</a></li>
 <li>Complete the <a href="#">final reflection</a></li>
 </ol>
-
-# 🌈📚 Extend Your Knowledge
-
-To further enrich your learning experience, we suggest:
-
-<ol>
-<li><strong>Game Design</strong>: Try out different game design and playtesting methods.</li>
-<li><strong>Advanced Unity</strong>: Explore more advanced Unity features and tools.</li>
-<li><strong>Game Programming</strong>: Go deeper with your programming skills in game development.</li>
-<li><strong>Storytelling</strong>: Experiment with different storytelling methods in your games.</li>
-</ol>
-
-🚀 🌟 🎈 Good luck and enjoy this creative journey! 🕹️🎨💡
