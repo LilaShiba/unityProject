@@ -4,8 +4,6 @@
 
 Craft a game that represents a typical day in your life or in the life of a chosen renowned scientist. This project is a fantastic chance to show your talents in programming, game mechanics, and storytelling.
 <br>
-<br>
-
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
@@ -26,7 +24,6 @@ Your game should include the following elements:
 | 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
 | 🌃 Multiple Scenes | Include at least two different scenes in the game. |
 </details>
-<br>
 <br>
 
 # Rubrics 🎯📜
@@ -52,7 +49,6 @@ Your game should include the following elements:
 
 </details>
 <br>
-<br>
 
 # Research
 
@@ -76,7 +72,6 @@ This list includes scientists and their contributions represented in a series of
 
 </details>
 <br>
-<br>
 
 # Before Coding 📚
 
@@ -95,7 +90,6 @@ This list includes scientists and their contributions represented in a series of
    * 📅 **Timeline**: Draft a feasible timeline for the different phases of your project.
 
 </details>
-<br>
 <br>
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
