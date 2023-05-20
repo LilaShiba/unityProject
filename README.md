@@ -99,13 +99,6 @@ Your game should include the following elements:
       <td>The game mechanics are confusing or non-functional.</td>
     </tr>
     <tr>
-      <td>🌈 **Theme Integration**</td>
-      <td>The magic and trans rights themes are incorporated creatively and thoughtfully throughout the game.</td>
-      <td>The magic and trans rights themes are incorporated in the game.</td>
-      <td>The magic and trans rights themes are present but not effectively integrated into the game.</td>
-      <td>The magic and trans rights themes are absent or not noticeable in the game.</td>
-    </tr>
-    <tr>
       <td>👁️ **First-Person Controller**</td>
       <td>The first-person controller enhances the gameplay, offering an immersive experience.</td>
       <td>The first-person controller functions well and does not detract from gameplay.</td>
@@ -140,20 +133,49 @@ Your game should include the following elements:
 
 # Research
 
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
+
 <details>
 <summary>🫧Expand Your Bubble🫧</summary>
-
-If your game will be about someone else, feel free to pick from this list or suggest your own person(s)!
   
-This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
-  
-1. [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace) 💻📜🎩👩‍🔬
-2. [**Rosalind Franklin**](https://en.wikipedia.org/wiki/Rosalind_Franklin) 🧬🔬📸🇬🇧
-3. [**Ben Barres**](https://en.wikipedia.org/wiki/Ben_Barres) 🧠🔬🎓🌈
-4. [**Jane Goodall**](https://en.wikipedia.org/wiki/Jane_Goodall) 🦍🌿🔬🇬🇧
-5. [**Mae Jemison**](https://en.wikipedia.org/wiki/Mae_Jemison) 👩‍🚀🌍🚀👩🏾‍🔬
-6. [**Chien-Shiung Wu**](https://en.wikipedia.org/wiki/Chien-Shiung_Wu) ⚛️🔭🧲👩🏽‍🔬
-7. [**Katherine Johnson**](https://en.wikipedia.org/wiki/Katherine_Johnson) 🚀🧮🌌👩🏾‍🏫
+<table>
+  <thead>
+    <tr>
+      <th>Scientist</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a></td>
+      <td>💻📜🎩👩‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Rosalind_Franklin">Rosalind Franklin</a></td>
+      <td>🧬🔬📸🇬🇧</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Ben_Barres">Ben Barres</a></td>
+      <td>🧠🔬🎓🌈</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Jane_Goodall">Jane Goodall</a></td>
+      <td>🦍🌿🔬🇬🇧</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Mae_Jemison">Mae Jemison</a></td>
+      <td>👩‍🚀🌍🚀👩🏾‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Chien-Shiung_Wu">Chien-Shiung Wu</a></td>
+      <td>⚛️🔭🧲👩🏽‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Katherine_Johnson">Katherine Johnson</a></td>
+      <td>🚀🧮🌌👩🏾‍🏫</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
