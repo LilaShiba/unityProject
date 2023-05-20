@@ -16,18 +16,18 @@ Your game should include the following elements:
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
-| Requirement      | Description |
-| ---------------- | ----------- |
-| 📖 Personal Story | The game should depict a day in your life or that of a renowned scientist. |
-| 🏆 Win Condition & Challenges | Design a winning condition and incorporate challenges related to daily tasks or scientific feats. |
-| 🎆 Immersive Game Environment | Use sounds, lighting, and assets to build a captivating gaming environment. |
-| 👁️ First-Person Controller | The game should be navigable from a first-person view. |
-| 💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. |
-| 🌌 Player Boundaries | Ensure the player can't leave the game environment. |
-| 🛸 Raycasting and Prefabs | Use these to enhance gameplay mechanics. |
-| 🖥️ Interactive GUI Elements | Implement GUI for better player interaction. |
-| 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
-| 🌃 Multiple Scenes | Include at least two different scenes in the game. |
+  | Requirement      | Description |
+  | ---------------- | ----------- |
+  | 📖 Personal Story | The game should depict a day in your life or that of a renowned scientist. |
+  | 🏆 Win Condition & Challenges | Design a winning condition and incorporate challenges related to daily tasks or scientific feats. |
+  | 🎆 Immersive Game Environment | Use sounds, lighting, and assets to build a captivating gaming environment. |
+  | 👁️ First-Person Controller | The game should be navigable from a first-person view. |
+  | 💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. |
+  | 🌌 Player Boundaries | Ensure the player can't leave the game environment. |
+  | 🛸 Raycasting and Prefabs | Use these to enhance gameplay mechanics. |
+  | 🖥️ Interactive GUI Elements | Implement GUI for better player interaction. |
+  | 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
+  | 🌃 Multiple Scenes | Include at least two different scenes in the game. |
 
 </details>
 <br>
