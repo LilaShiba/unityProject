@@ -1,51 +1,104 @@
-# 🪄🔮 Final Project: "The Story of Me" - An Interactive Autobiography 🚀🛸 
+# ✨"A Day in My Life" - An Interactive Bio 🔬
 
-**Due Date:** 📅 06/04/2023, ⏰ 9PM 
+**Due Date:** 📅 06/04/2023, ⏰ 9PM
 
-Craft a game that narrates your life's unique journey! This project is a grand opportunity to demonstrate your talents in programming, game mechanics, and creativity.
+Craft a game that represents a typical day in your life or in the life of a chosen renowned scientist. This project is a fantastic chance to show your talents in programming, game mechanics, and storytelling.
+<br>
+<br>
 
-👉 Check the [Rubrics here](#) for grading criteria 🎯📜
+# 📝 Project Requirements ✅
 
-## 📝 Project Requirements ✅ 
-
-Ensure your game includes the following elements:
+Your game should include the following elements:
 
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
 | Requirement      | Description |
 | ---------------- | ----------- |
-| 📖 Personal Story | Your game should depict your unique personal journey. |
-| 🏆 Win Condition & Challenges | Craft a winning condition for players and incorporate challenges. |
-| 🎆 Immersive Game Environment | Use a mix of sounds, lighting, and assets to build a rich gaming environment. |
-| 👁️ First-Person Controller | Players should navigate the game in a first-person view. |
+| 📖 Personal Story | The game should depict a day in your life or that of a renowned scientist. |
+| 🏆 Win Condition & Challenges | Design a winning condition and incorporate challenges related to daily tasks or scientific feats. |
+| 🎆 Immersive Game Environment | Use sounds, lighting, and assets to build a captivating gaming environment. |
+| 👁️ First-Person Controller | The game should be navigable from a first-person view. |
 | 💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. |
-| 🌌 Player Boundaries | Design the game such that the player cannot leave the game environment. |
-| 🛸 Raycasting and Prefabs | Utilize these to improve gameplay mechanics. |
-| 🖥️ Interactive GUI Elements | Use GUI for better player interaction. |
+| 🌌 Player Boundaries | Ensure the player can't leave the game environment. |
+| 🛸 Raycasting and Prefabs | Use these to enhance gameplay mechanics. |
+| 🖥️ Interactive GUI Elements | Implement GUI for better player interaction. |
 | 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
-| 🌃 Multiple Scenes | The game should include at least two different scenes. |
+| 🌃 Multiple Scenes | Include at least two different scenes in the game. |
 </details>
+<br>
+<br>
 
+# Rubrics 🎯📜
 
-## Before Coding 📚
+<details>
+<summary> Expand To Understand</summary>
 
-📨 **Submit and Discuss**: [Submit your proposal](#) for review and have a discussion to clarify any uncertainties.
-🔄 **Revise and Finalize**: Incorporate the feedback, revise, and get the final approval before starting to code.
+| Criteria       | Exemplary | Proficient | Developing | Not Yet Proficient |
+| -------------- | --------- | ---------- | ---------- | ------------------ |
+| 📖 **Personal Story / Research** | The personal story or scientist's life is deeply explored, with clear links to the game. | The personal story or scientist's life is explored, with links to the game. | The personal story or scientist's life is mentioned, but links to the game are unclear. | The personal story or scientist's life is not effectively incorporated into the game. |
+| 🎮 **Game Mechanics** | The game mechanics are innovative, engaging, and well implemented. | The game mechanics are solid and serve to enhance the game experience. | The game mechanics are functional but do not enhance the game experience. | The game mechanics are confusing or non-functional. |
+| 🌈 **Theme Integration** | The magic and trans rights themes are incorporated creatively and thoughtfully throughout the game. | The magic and trans rights themes are incorporated in the game. | The magic and trans rights themes are present but not effectively integrated into the game. | The magic and trans rights themes are absent or not noticeable in the game. |
+| 👁️ **First-Person Controller** | The first-person controller enhances the gameplay, offering an immersive experience. | The first-person controller functions well and does not detract from gameplay. | The first-person controller functions, but could use improvement. | The first-person controller is dysfunctional or not implemented. |
+| 🛠️ **Use of Unity** | Unity is used to its full potential to create an engaging and visually appealing game. | Unity is used effectively to create a functional and appealing game. | Unity is used, but the game could benefit from more advanced features or polish. | Unity is not used effectively, impacting the quality of the game. |
+| 🗣️ **Presentation** | The project presentation is engaging, clear, and demonstrates a deep understanding of the game development process. | The project presentation is solid and shows understanding of the game development process. | The project presentation shows some understanding of the game development process, but could be more clear or engaging. | The project presentation is unclear or fails to demonstrate understanding of the game development process. |
+
+## Note
+
+* **Exemplary**: Exceeds expectations and demonstrates superior understanding or execution.
+* **Proficient**: Meets expectations and demonstrates adequate understanding or execution.
+* **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
+* **Not Yet Proficient**: Does not meet expectations and demonstrates lack of understanding or execution.
+
+</details>
+<br>
+<br>
+
+# Research
+
+If your game will be about someone else, it must be from this list. If, however, you wish to research another person, please submit in the proposal.
+<details>
+<summary>Expand If your game is about someone else</summary>
+
+## 🌟 List of Inspiring Scientists for Research 🌈🔬
+
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Fun fact, Carl Sagn is the reason I got into science.
+
+1. [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace) 💻📜🎩👩‍🔬
+2. [**Alan Turing**](https://en.wikipedia.org/wiki/Alan_Turing) 🌈💻🔣🇬🇧
+3. [**Lynn Conway**](https://en.wikipedia.org/wiki/Lynn_Conway) 💡🌈🖥️💎
+4. [**Rosalind Franklin**](https://en.wikipedia.org/wiki/Rosalind_Franklin) 🧬🔬📸🇬🇧
+5. [**Ben Barres**](https://en.wikipedia.org/wiki/Ben_Barres) 🧠🔬🎓🌈
+6. [**Temple Grandin**](https://en.wikipedia.org/wiki/Temple_Grandin) 🐄🧩💡👩‍🌾
+7. [**Jane Goodall**](https://en.wikipedia.org/wiki/Jane_Goodall) 🦍🌿🔬🇬🇧
+8. [**Stephen Hawking**](https://en.wikipedia.org/wiki/Stephen_Hawking) 🌌♿📚🇬🇧
+9. [**Carl Sagan**](https://en.wikipedia.org/wiki/Carl_Sagan) 🌌📚🔭🇺🇸
+
+</details>
+<br>
+<br>
+
+# Before Coding 📚
+
+📨 **Submit and Discuss**: [Submit your proposal](#) for review and clarify any doubts.
+🔄 **Revise and Finalize**: After feedback incorporation, finalize your proposal before beginning to code.
 
 <details>
 <summary>🔍 Click here for the Proposal Check List</summary>
 
-1. 🎩 **Understand the Problem**: What are the project requirements.
+1. 🎩 **Understand the Problem**: What are the project requirements?
 2. 📝 **Project Proposal**: Write a proposal containing:
-   - 👤 **Student Information**: Your name and relevant details.
-   - 📛 **Project Title**: Clearly define your project title.
-   - 📚 **Story Line**: Discuss how storytelling elements will be used in your game.
-   - 🎮 **Game Description**: Provide a brief description of your game and its objectives.
-   - 📅 **Timeline**: Draft a feasible timeline for project phases.
-</details>
+   * 👤 **Student Information**: Your name and relevant details.
+   * 📛 **Project Title**: Clearly define your project title.
+   * 📚 **Story Line**: Discuss how storytelling elements will be used in your game.
+   * 🎮 **Game Description**: Provide a brief description of your game and its objectives.
+   * 📅 **Timeline**: Draft a feasible timeline for the different phases of your project.
 
-## 🎉🔮  Giving Your Presentation 🎓🚀
+</details>
+<br>
+<br>
+
+# 🎉🔮  Giving Your Presentation 🎓🚀
 
 <details>
 <summary>🔍 Click here for How To Present</summary>
@@ -57,31 +110,27 @@ Ensure your game includes the following elements:
 5. 💬 **Engage Your Audience**: Encourage interaction and engagement from your audience during the presentation.
 6. 📚 **Summary & Key Takeaways**: Conclude with a summary of your project and the key takeaways.
 7. 🎤 **Preparation**: Anticipate potential questions and prepare clear and informative responses.
+
 </details>
 
-## 📥 Project Submission 
+<br>
+<br>
+
+# 📥 Project Submission
 
 Submit the following by 06/04/2023, 9 PM:
 
 1. Upload a .zip copy of your Unity Game Project folder
-2. Upload you material links to [the last game design schoology assignment](#)
+2. Upload your material links to [the last game design schoology assignment](#)
 3. Complete the [final reflection](#)
 
-## 🌠 Expand Your Skills! 📘
+# 🌈📚 Extend Your Knowledge
 
-Engage in these fun and educational topics for your summer project! The more you delve into projects, the more your programming skills grow. 🌱
+To further enrich your learning experience, we suggest:
 
-<details>
-<summary>🔍 Click here for Ideas to Expand </summary>
+1. **Game Design**: Try out different game design and playtesting methods.
+2. **Advanced Unity**: Explore more advanced Unity features and tools.
+3. **Game Programming**: Go deeper with your programming skills in game development.
+4. **Storytelling**: Experiment with different storytelling methods in your games.
 
-- [Unity Particle Systems](https://learn.unity.com/tutorial/unity-particle-systems) 💫: Master creating captivating visual effects using particle systems in Unity.
-- [Unity Audio](https://learn.unity.com/tutorial/unity-audio) 🎵: Understand how to incorporate sound effects, background music, and interactive audio into your game.
-- [2D Games in Unity](https://learn.unity.com/tutorial/2d-games-in-unity) 🪄🔮: Dive into creating 2D games and learn about sprite animations, collision detection, and level building.
-- [Unity Tilemaps](https://learn.unity.com/tutorial/unity-tilemaps) 🧙‍♀️🔲: Learn how to use Unity's Tilemap feature to design appealing 2D game levels.
-- [Unity Animations](https://learn.unity.com/tutorial/unity-animations) 🚀🛸: Get a grasp of animating characters, objects, and UI elements in Unity.
-- [VR Development with Oculus and Unity](https://learn.unity.com/tutorial/vr-development-with-oculus-and-unity) 🥽🌐: Step into the world of VR game development with Unity and Oculus.
-</details>
-
----
-
-Remember, we're here to assist you in your game design journey. Reach out anytime you need help. Enjoy your game design process and good luck! 🚀🎮💡
+🚀 🌟 🎈 Good luck and enjoy this creative journey! 🕹️🎨💡
