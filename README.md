@@ -121,10 +121,10 @@ Your game should include the following elements:
     </tr>
     <tr>
       <td>🗣️ **Presentation**</td>
-      <td>The project presentation is engaging, clear, and demonstrates a deep understanding of the game development process.</td>
-      <td>The project presentation is solid and shows understanding of the game development process.</td>
-      <td>The project presentation shows some understanding of the game development process, but could be more clear or engaging.</td>
-      <td>The project presentation is unclear or fails to demonstrate understanding of the game development process.</td>
+      <td> Is engaging, clear, and demonstrates a deep understanding of the game development process.</td>
+      <td> Is solid and shows understanding of the game development process.</td>
+      <td> Shows some understanding of the game development process, but could be more clear or engaging.</td>
+      <td> Unclear or fails to demonstrate understanding of the game development process.</td>
     </tr>
   </tbody>
 </table>
@@ -144,27 +144,22 @@ Your game should include the following elements:
 If your game will be about someone else, it must be from this list. If, however, you wish to research another person, please submit in the proposal.
 
 <details>
-<summary>Expand your bubble</summary>
-<br>
-<p>This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings?</p>
+<summary>🫧Expand Your Bubble🫧</summary>
 
-<ol>
-<li><a href="https://en.wikipedia.org/wiki/Ada_Lovelace"><strong>Ada Lovelace</strong></a> 💻📜🎩👩‍🔬</li>
-<li><a href="https://en.wikipedia.org/wiki/Alan_Turing"><strong>Alan Turing</strong></a> 🌈💻🔣🇬🇧</li>
-<li><a href="https://en.wikipedia.org/wiki/Lynn_Conway"><strong>Lynn Conway</strong></a> 💡🌈🖥️💎</li>
-<li><a href="https://en.wikipedia.org/wiki/Rosalind_Franklin"><strong>Rosalind Franklin</strong></a> 🧬🔬📸🇬🇧</li>
-<li><a href="https://en.wikipedia.org/wiki/Ben_Barres"><strong>Ben Barres</strong></a> 🧠🔬🎓🌈</li>
-<li><a href="https://en.wikipedia.org/wiki/Temple_Grandin"><strong>Temple Grandin</strong></a> 🐄🧩💡👩‍🌾</li>
-<li><a href="https://en.wikipedia.org/wiki/Jane_Goodall"><strong>Jane Goodall</strong></a> 🦍🌿🔬🇬🇧</li>
-<li><a href="https://en.wikipedia.org/wiki/Stephen_Hawking"><strong>Stephen Hawking</strong></a> 🌌♿📚🇬🇧</li>
-<li><a href="https://en.wikipedia.org/wiki/Carl_Sagan"><strong>Carl Sagan</strong></a> 🌌📚🔭🇺🇸</li>
-</ol>
+
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Feel free to find your own person to research. this is just a jumping off list!
+
+1. [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace) 💻📜🎩👩‍🔬
+2. [**Rosalind Franklin**](https://en.wikipedia.org/wiki/Rosalind_Franklin) 🧬🔬📸🇬🇧
+3. [**Ben Barres**](https://en.wikipedia.org/wiki/Ben_Barres) 🧠🔬🎓🌈
+4. [**Jane Goodall**](https://en.wikipedia.org/wiki/Jane_Goodall) 🦍🌿🔬🇬🇧
+5. [**Mae Jemison**](https://en.wikipedia.org/wiki/Mae_Jemison) 👩‍🚀🌍🚀👩🏾‍🔬
+6. [**Chien-Shiung Wu**](https://en.wikipedia.org/wiki/Chien-Shiung_Wu) ⚛️🔭🧲👩🏽‍🔬
+7. [**Katherine Johnson**](https://en.wikipedia.org/wiki/Katherine_Johnson) 🚀🧮🌌👩🏾‍🏫
 
 </details>
 
 # 🎉🔮  Giving Your Presentation 🎓🚀
-
-Each requirment will be looked at with the rubric above
 
 <details>
 <summary>🔍Presentation Requirements</summary>
@@ -180,9 +175,6 @@ Each requirment will be looked at with the rubric above
 </ol>
 
 </details>
-
-<br>
-<br>
 
 # 📥 Project Submission
 
