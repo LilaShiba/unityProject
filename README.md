@@ -11,6 +11,7 @@ Remember, storytelling is a powerful tool that can create a deep connection betw
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
+
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
@@ -66,7 +67,6 @@ Your game should include the following elements:
   </table>
 
 </details>
-<br>
 
 # Rubrics 🎯📜
 
@@ -138,17 +138,15 @@ Your game should include the following elements:
 * **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
 * **Not Yet Proficient**: Does not meet expectations and demonstrates lack of understanding or execution.
 
-
 # Research
-
-If your game will be about someone else, it must be from this list. If, however, you wish to research another person, please submit in the proposal.
 
 <details>
 <summary>🫧Expand Your Bubble🫧</summary>
 
-
-This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Feel free to find your own person to research. this is just a jumping off list!
-
+If your game will be about someone else, feel free to pick from this list or suggest your own person(s)!
+  
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
+  
 1. [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace) 💻📜🎩👩‍🔬
 2. [**Rosalind Franklin**](https://en.wikipedia.org/wiki/Rosalind_Franklin) 🧬🔬📸🇬🇧
 3. [**Ben Barres**](https://en.wikipedia.org/wiki/Ben_Barres) 🧠🔬🎓🌈
