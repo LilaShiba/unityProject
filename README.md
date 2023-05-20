@@ -2,8 +2,14 @@
 
 **Due Date:** 📅 06/04/2023, ⏰ 9PM
 
-Craft a game that represents a typical day in your life or in the life of a chosen renowned scientist. This project is a fantastic chance to show your talents in programming, game mechanics, and storytelling.
+In this project, you'll create an immersive and interactive experience where players will embark on a quest through pivotal moments in your life or the life of a renowned scientist. Each challenge, obstacle, or milestone encountered along the way will contribute to the overall narrative arc of the game.
+
+Through your storytelling prowess, you'll captivate players and guide them on an emotional journey filled with personal growth, scientific discoveries, or both. Use your creative skills to craft compelling characters, engaging dialogue, and impactful choices that shape the outcome of the quest.
+
+Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
+
 <br>
+
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
