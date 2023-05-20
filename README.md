@@ -7,7 +7,6 @@ Craft a game that represents a typical day in your life or in the life of a chos
 # 📝 Project Requirements ✅
 
 Your game should include the following elements:
-
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
@@ -23,6 +22,7 @@ Your game should include the following elements:
 | 🖥️ Interactive GUI Elements | Implement GUI for better player interaction. |
 | 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
 | 🌃 Multiple Scenes | Include at least two different scenes in the game. |
+
 </details>
 <br>
 
