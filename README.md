@@ -131,6 +131,8 @@ Your game should include the following elements:
   </tbody>
 </table>
 
+</details>
+
 ## Note
 
 * **Exemplary**: Exceeds expectations and demonstrates superior understanding or execution.
@@ -138,12 +140,12 @@ Your game should include the following elements:
 * **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
 * **Not Yet Proficient**: Does not meet expectations and demonstrates lack of understanding or execution.
 
-</details>
 <br>
 
 # Research
 
 If your game will be about someone else, it must be from this list. If, however, you wish to research another person, please submit in the proposal.
+
 <details>
 <summary>Expand If your game is about someone else</summary>
 
@@ -151,15 +153,17 @@ If your game will be about someone else, it must be from this list. If, however,
 
 This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Fun fact, Carl Sagn is the reason I got into science.
 
-1. [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace) 💻📜🎩👩‍🔬
-2. [**Alan Turing**](https://en.wikipedia.org/wiki/Alan_Turing) 🌈💻🔣🇬🇧
-3. [**Lynn Conway**](https://en.wikipedia.org/wiki/Lynn_Conway) 💡🌈🖥️💎
-4. [**Rosalind Franklin**](https://en.wikipedia.org/wiki/Rosalind_Franklin) 🧬🔬📸🇬🇧
-5. [**Ben Barres**](https://en.wikipedia.org/wiki/Ben_Barres) 🧠🔬🎓🌈
-6. [**Temple Grandin**](https://en.wikipedia.org/wiki/Temple_Grandin) 🐄🧩💡👩‍🌾
-7. [**Jane Goodall**](https://en.wikipedia.org/wiki/Jane_Goodall) 🦍🌿🔬🇬🇧
-8. [**Stephen Hawking**](https://en.wikipedia.org/wiki/Stephen_Hawking) 🌌♿📚🇬🇧
-9. [**Carl Sagan**](https://en.wikipedia.org/wiki/Carl_Sagan) 🌌📚🔭🇺🇸
+<ol>
+<li><a href="https://en.wikipedia.org/wiki/Ada_Lovelace"><strong>Ada Lovelace</strong></a> 💻📜🎩👩‍🔬</li>
+<li><a href="https://en.wikipedia.org/wiki/Alan_Turing"><strong>Alan Turing</strong></a> 🌈💻🔣🇬🇧</li>
+<li><a href="https://en.wikipedia.org/wiki/Lynn_Conway"><strong>Lynn Conway</strong></a> 💡🌈🖥️💎</li>
+<li><a href="https://en.wikipedia.org/wiki/Rosalind_Franklin"><strong>Rosalind Franklin</strong></a> 🧬🔬📸🇬🇧</li>
+<li><a href="https://en.wikipedia.org/wiki/Ben_Barres"><strong>Ben Barres</strong></a> 🧠🔬🎓🌈</li>
+<li><a href="https://en.wikipedia.org/wiki/Temple_Grandin"><strong>Temple Grandin</strong></a> 🐄🧩💡👩‍🌾</li>
+<li><a href="https://en.wikipedia.org/wiki/Jane_Goodall"><strong>Jane Goodall</strong></a> 🦍🌿🔬🇬🇧</li>
+<li><a href="https://en.wikipedia.org/wiki/Stephen_Hawking"><strong>Stephen Hawking</strong></a> 🌌♿📚🇬🇧</li>
+<li><a href="https://en.wikipedia.org/wiki/Carl_Sagan"><strong>Carl Sagan</strong></a> 🌌📚🔭🇺🇸</li>
+</ol>
 
 </details>
 <br>
@@ -173,13 +177,15 @@ This list includes scientists and their contributions represented in a series of
 <details>
 <summary>🔍 Click here for How To Present</summary>
 
-1. 👋 **Introduction**: Begin by introducing yourself and your game.
-2. 🎮 **Game Mechanics & Unity Features**: Discuss the key game mechanics and Unity features used in your project.
-3. 🕹️ **Gameplay Walkthrough**: Demonstrate the main gameplay elements and features.
-4. 💥 **Challenges & Solutions**: Share any hurdles faced during the development process and how you resolved them.
-5. 💬 **Engage Your Audience**: Encourage interaction and engagement from your audience during the presentation.
-6. 📚 **Summary & Key Takeaways**: Conclude with a summary of your project and the key takeaways.
-7. 🎤 **Preparation**: Anticipate potential questions and prepare clear and informative responses.
+<ol>
+<li>👋 <strong>Introduction</strong>: Begin by introducing yourself and your game.</li>
+<li>🎮 <strong>Game Mechanics & Unity Features</strong>: Discuss the key game mechanics and Unity features used in your project.</li>
+<li>🕹️ <strong>Gameplay Walkthrough</strong>: Demonstrate the main gameplay elements and features.</li>
+<li>💥 <strong>Challenges & Solutions</strong>: Share any hurdles faced during the development process and how you resolved them.</li>
+<li>💬 <strong>Engage Your Audience</strong>: Encourage interaction and engagement from your audience during the presentation.</li>
+<li>📚 <strong>Summary & Key Takeaways</strong>: Conclude with a summary of your project and the key takeaways.</li>
+<li>🎤 <strong>Preparation</strong>: Anticipate potential questions and prepare clear and informative responses.</li>
+</ol>
 
 </details>
 
@@ -190,17 +196,21 @@ This list includes scientists and their contributions represented in a series of
 
 Submit the following by 06/04/2023, 9 PM:
 
-1. Upload a .zip copy of your Unity Game Project folder
-2. Upload your material links to [the last game design schoology assignment](#)
-3. Complete the [final reflection](#)
+<ol>
+<li>Upload a .zip copy of your Unity Game Project folder</li>
+<li>Upload your material links to <a href="#">the last game design schoology assignment</a></li>
+<li>Complete the <a href="#">final reflection</a></li>
+</ol>
 
 # 🌈📚 Extend Your Knowledge
 
 To further enrich your learning experience, we suggest:
 
-1. **Game Design**: Try out different game design and playtesting methods.
-2. **Advanced Unity**: Explore more advanced Unity features and tools.
-3. **Game Programming**: Go deeper with your programming skills in game development.
-4. **Storytelling**: Experiment with different storytelling methods in your games.
+<ol>
+<li><strong>Game Design</strong>: Try out different game design and playtesting methods.</li>
+<li><strong>Advanced Unity</strong>: Explore more advanced Unity features and tools.</li>
+<li><strong>Game Programming</strong>: Go deeper with your programming skills in game development.</li>
+<li><strong>Storytelling</strong>: Experiment with different storytelling methods in your games.</li>
+</ol>
 
 🚀 🌟 🎈 Good luck and enjoy this creative journey! 🕹️🎨💡
