@@ -2,7 +2,7 @@
 
 **Due Date:** 📅 06/04/2023, ⏰ 9PM
 
-In this project, you'll create an immersive and interactive experience where players will embark on a quest through pivotal moments in your life or the life of a renowned scientist. Each challenge, obstacle, or milestone encountered along the way will contribute to the overall narrative arc of the game.
+In this project, you'll create an immersive and interactive experience where players will embark on a quest based on a pivotal moment in your life or the life of a personally notable important individual! Each challenge, obstacle, or milestone encountered along the way will contribute to the overall narrative arc of the game.
 
 Through your storytelling prowess, you'll captivate players and guide them on an emotional journey filled with personal growth, scientific discoveries, or both. Use your creative skills to craft compelling characters, engaging dialogue, and impactful choices that shape the outcome of the quest.
 
