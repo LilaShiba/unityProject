@@ -1,3 +1,46 @@
+# GitHub Pages configuration file for student coding lessons
+# -----------------------------------------------------------
+# Theme settings
 remote_theme: pages-themes/hacker@v0.2.0
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme   # Enables remote theme support
+  - jekyll-sitemap         # Adds a sitemap for better SEO
+  - jekyll-feed            # Adds an Atom feed for easy updates
+
+# Site settings
+title: "Day in the Life Lab 🌟"
+description: "An interactive space for students to learn and explore coding."
+show_downloads: true
+# google_analytics: UA-XXXXXXXXX-X  
+# Navigation
+# header_pages:
+#   - index.md
+#   - lessons.md
+#   - projects.md
+#   - resources.md
+#   - about.md
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge  # Syntax highlighting for code snippets
+
+# Customization
+theme_config:
+  colors:
+    background: "#0d1117"   # Dark mode for coding focus
+    text: "#c9d1d9"         # Light text for readability
+    link: "#58a6ff"         # Highlight links
+  fonts:
+    body: "Consolas, Monaco, 'Courier New', monospace"
+    heading: "'Roboto Slab', serif"
+
+# Caching and performance (optional)
+exclude:
+  - "*.log"
+  - "*.tmp"
+  - "vendor"
+  - "node_modules"
+  - "Gemfile"
+  - "Gemfile.lock"
